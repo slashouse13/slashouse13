@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Working on:
-- Gw2l Mobile app => ![GitHub issues](https://img.shields.io/github/issues/slashouse13/gw2l-react)
-- Never Trust Hannah Gmod server revival => ![GitHub issues](https://img.shields.io/github/issues/slashouse13/never-trust-hannah)
+- Gw2l Mobile app => ![GitHub issues](https://img.shields.io/github/issues/slashouse13/gw2l-react) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/slashouse13/gw2l-react)
+- Never Trust Hannah Gmod server revival => ![GitHub issues](https://img.shields.io/github/issues/slashouse13/never-trust-hannah) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/slashouse13/never-trust-hannah)
