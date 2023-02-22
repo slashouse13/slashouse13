@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **slashouse13/slashouse13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Working on:
+- Gw2l Mobile app => ![GitHub issues](https://img.shields.io/github/issues/slashouse13/gw2l-react)
+- Never Trust Hannah Gmod server revival => ![GitHub issues](https://img.shields.io/github/issues/slashouse13/never-trust-hannah)
